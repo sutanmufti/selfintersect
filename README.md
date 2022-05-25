@@ -1,6 +1,10 @@
 # self intersect
 jupyter notebook that explain self intersecting line algorithm. By Sutan Mufti (@urban_planning)
 
+check the discussion:
+
+https://gis.stackexchange.com/questions/360344/how-do-i-find-where-a-line-intersects-itself/372091#372091
+
 ---
 
 
